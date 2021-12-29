@@ -13,3 +13,7 @@ Analysis of Amazon product reviews estimating if the reviews were positive or ne
 
 ## Which Wikipedia article would be similar to one you just read (Clustering)
 Clustering wikipedia articles of people aiming at finding the ones most similar to each one.
+
+
+## Product recommender: songs
+Based on a dataset of songs listed by users, get song recommendations per user and also check which songs are being recommended the most.
