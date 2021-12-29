@@ -1,4 +1,4 @@
-# machine_learning_exercises
+# Machine Learning Exercises
 Exercises going through Regression, Classification, Clustering, Recommenders and Deep learning...
 
 <hr>
