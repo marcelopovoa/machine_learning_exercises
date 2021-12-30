@@ -21,3 +21,10 @@ Based on a dataset of songs listed by users, get song recommendations per user a
 
 ## Deep learning for image retrieval (Deep learning)
 Using a dataset with animals, compare raw pixel vs deep learning classifiers. Then use nearest neighbor models to get predictions and calculate its accuracy.
+
+
+
+## House prices (Regression) - Manual calculation
+Regression estimating house prices based on previous house sales, using features like house size (sqft), number of bathrooms and so on...
+This time the simple linear model and RSS are manually calculated instead of using a model from a python package.
+
