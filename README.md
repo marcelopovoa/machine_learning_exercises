@@ -5,6 +5,7 @@ Exercises going through Regression, Classification, Clustering, Recommenders and
 
 ## Estimating House Prices (Regression)
 Regression estimating house prices based on previous house sales, using features like house size (sqft), number of bathrooms and so on...
+It uses a King County House Sales dataset. 
 
 
 ## Product sentiment analysis (Classification)
@@ -31,6 +32,11 @@ This time the simple linear model and RSS are manually calculated instead of usi
 ## Estimating House Prices (Multiple Regression) - Manual calculation
 Regression estimating house prices based on previous house sales, using features like house size (sqft), number of bathrooms and so on...
 We calculate the linear model and RSS manually for a multiple regression case instead of using python packages.
+
+
+## Estimating House Prices (Multiple Regression) - Feature Selection and Lasso
+Regression estimating house prices based on previous house sales, using features like house size (sqft), number of bathrooms and so on...
+We go over feature selection and Lasso.
 
 
 ## Estimating House Prices (Multiple Regression) - Manual Gradient Descent Calculation
