@@ -38,6 +38,9 @@ We calculate the linear model and RSS manually for a multiple regression case in
 Regression estimating house prices based on previous house sales, using features like house size (sqft), number of bathrooms and so on...
 We go over feature selection and Lasso.
 
+## Estimating House Prices (Multiple Regression) - Lasso with coordinate descent solver
+We build our own lasso solver using coordinate descent.
+
 
 ## Estimating House Prices (Multiple Regression) - Manual Gradient Descent Calculation
 Regression estimating house prices based on previous house sales, using features like house size (sqft), number of bathrooms and so on...
