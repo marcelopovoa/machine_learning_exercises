@@ -46,6 +46,10 @@ We build our own lasso solver using coordinate descent.
 Regression estimating house prices based on previous house sales, using features like house size (sqft), number of bathrooms and so on...
 We manually calculate the Gradient Descent of the regression algorithm for multiple regression cases.
 
+## Estimating House Prices (Multiple Regression) - Nearest Neighbor Kernel Regression
+We build our own nearest k-neighbor kernel regression.
+
+
 ## Overfitting demo using Ridge Lasso Regression
 On a synthetic dataset of sinusoidal form, see the weight behavior with different polynomial degrees. Then using Ridge regression, see the behavior of the lambda penalty (l2 penalty). Finally using Lasso see how it impacts overfitting.
 
