@@ -11,6 +11,9 @@ It uses a King County House Sales dataset.
 ## Product sentiment analysis (Classification)
 Analysis of Amazon product reviews estimating if the reviews were positive or negative, as well as picking the most positive and most negative reviews.
 
+## Product sentiment analysis (Classification) - logistic from scratch
+For this case, a logistic regression sentiment analysis was created from scratch.
+
 
 ## Which Wikipedia article would be similar to one you just read (Clustering)
 Clustering wikipedia articles of people aiming at finding the ones most similar to each one.
