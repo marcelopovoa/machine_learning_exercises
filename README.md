@@ -14,6 +14,9 @@ Analysis of Amazon product reviews estimating if the reviews were positive or ne
 ## Product sentiment analysis (Classification) - logistic from scratch
 For this case, a logistic regression sentiment analysis was created from scratch.
 
+## Product sentiment analysis (Classification) - logistic with L2
+For this case, a logistic regression sentiment analysis with L2
+
 
 ## Which Wikipedia article would be similar to one you just read (Clustering)
 Clustering wikipedia articles of people aiming at finding the ones most similar to each one.
