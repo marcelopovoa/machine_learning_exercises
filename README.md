@@ -77,6 +77,6 @@ We explore emsemble methods / boosting
 ## Boosting a decision stump
 We explore boosting a decision stump.
 
-
+## Exploring precision and recall
 
 
