@@ -62,4 +62,8 @@ On a synthetic dataset of sinusoidal form, see the weight behavior with differen
 ## Overfitting demo using Ridge Regression with cross validation
 We'll test L2 values and pick the best one using cross validation
 
+## Identifying safe loans with decision trees
+Using a loan dataset we'll estimate if loans are safe or risky.
+
+
 
