@@ -74,5 +74,9 @@ Testing how to avoid overfitting decision trees
 ## Boosting 
 We explore emsemble methods / boosting
 
+## Boosting a decision stump
+We explore boosting a decision stump.
+
+
 
 
