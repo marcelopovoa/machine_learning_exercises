@@ -71,7 +71,8 @@ Using binary decision trees
 ## Overfitting decision trees
 Testing how to avoid overfitting decision trees
 
-
+## Boosting 
+We explore emsemble methods / boosting
 
 
 
