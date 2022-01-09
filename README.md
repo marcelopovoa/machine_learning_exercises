@@ -79,4 +79,5 @@ We explore boosting a decision stump.
 
 ## Exploring precision and recall
 
+## Improving Nearest Neighbors with Locality Sensitive Hashing
 
