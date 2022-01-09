@@ -81,3 +81,4 @@ We explore boosting a decision stump.
 
 ## Improving Nearest Neighbors with Locality Sensitive Hashing
 
+## K-Means with text data
