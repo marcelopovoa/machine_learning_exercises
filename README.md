@@ -79,10 +79,12 @@ We explore boosting a decision stump.
 
 ## Exploring precision and recall
 
-## Improving Nearest Neighbors with Locality Sensitive Hashing
+## 7.1 Improving Nearest Neighbors with Locality Sensitive Hashing
 
-## K-Means with text data
+## 7.2 K-Means with text data
 
-## Fitting Gaussian Mixture Models with EM
+## 7.3 Fitting Gaussian Mixture Models with EM
 
-## Fitting a diagonal covariance Gaussian mixture model to text data
+## 7.4 Fitting a diagonal covariance Gaussian mixture model to text data
+
+## 7.5 Latent Dirichlet Allocation (LDA) for Text Data
