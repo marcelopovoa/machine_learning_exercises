@@ -6,11 +6,11 @@ Exercises going through Regression, Classification, Clustering, Recommenders and
 
 # Foundation Examples
 
-## 1.1 Estimating House Prices (Regression)
+### 1.1 Estimating House Prices (Regression)
 Regression estimating house prices based on previous house sales, using features like house size (sqft), number of bathrooms and so on...
 It uses a King County House Sales dataset. 
 
-## 1.2 Product sentiment analysis (Classification)
+### 1.2 Product sentiment analysis (Classification)
 Analysis of Amazon product reviews estimating if the reviews were positive or negative, as well as picking the most positive and most negative reviews.
 
 ## 1.3 Which Wikipedia article would be similar to one you just read (Clustering)
