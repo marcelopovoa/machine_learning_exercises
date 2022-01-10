@@ -88,3 +88,5 @@ We explore boosting a decision stump.
 ## 7.4 Fitting a diagonal covariance Gaussian mixture model to text data
 
 ## 7.5 Latent Dirichlet Allocation (LDA) for Text Data
+
+## 8.1 Hierarchical clustering
