@@ -84,3 +84,5 @@ We explore boosting a decision stump.
 ## K-Means with text data
 
 ## Fitting Gaussian Mixture Models with EM
+
+## Fitting a diagonal covariance Gaussian mixture model to text data
