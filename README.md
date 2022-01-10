@@ -1,6 +1,7 @@
 # Machine Learning Exercises
 Exercises going through Regression, Classification, Clustering, Recommenders and Deep learning...
-#### Marcelo Povoa
+<br/><br/>
+Marcelo Povoa
 
 <hr>
 <br/><br/>
