@@ -3,6 +3,7 @@ Exercises going through Regression, Classification, Clustering, Recommenders and
 #### Marcelo Povoa
 
 <hr>
+<br/><br/>
 
 # Foundation Examples
 
@@ -23,6 +24,7 @@ Based on a dataset of songs listed by users, get song recommendations per user a
 Using a dataset with animals, compare raw pixel vs deep learning classifiers. Then use nearest neighbor models to get predictions and calculate its accuracy.
 
 
+<br/><br/>
 
 # Regression
 Multiple ways go to through regression estimating house prices based on previous house sales, using features like house size (sqft), number of bathrooms and so on...
@@ -57,6 +59,7 @@ We build our own lasso solver using coordinate descent.
 We build our own nearest k-neighbor kernel regression.
 
 
+<br/><br/>
 
 # Classification - Product Reviews
 
@@ -87,15 +90,11 @@ We explore emsemble methods / boosting
 ### 5.2 Boosting a decision stump
 We explore boosting a decision stump.
 
-
-
-
-# Precision and Recall
-
 ### 6.1 Exploring precision and recall
 Using a Amazon product review dataset, we aim to understaind precision-recall in the context of classifiers.
 
 
+<br/><br/>
 
 # Clustering and Retrieval
 
